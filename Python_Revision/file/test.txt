@@ -1,0 +1,3 @@
+Hi . I am here. and tryin got learn python , Databricks , delta lake , Apache airflow, yaml , Helm chart , Azure kubernetees cluster , so that i can perform well and hopefully
+
+nothing goes to waste . I am the second line
